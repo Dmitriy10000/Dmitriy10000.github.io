@@ -1,0 +1,64 @@
+body {
+	background: #111111;
+}
+
+.header {
+	background: #333333;
+	color: #777777;
+	box-shadow: 0px 1px 6px rgba(0, 0, 0, .2);
+}
+
+.content{
+	color: #888888;
+}
+
+.wrapper div {
+	background: #333333;
+	box-shadow: 0px 0px 6px rgba(0, 0, 0, .2);
+}
+
+.footer {
+	box-shadow: 0px -1px 6px rgba(0, 0, 0, .2);
+	background: #555555;
+	color: #999999;
+}
+
+.menu__btn > span,
+.menu__btn > span::before,
+.menu__btn > span::after {
+	background-color: #777777;
+}
+
+.menu__box {
+	background-color: #222222;
+	box-shadow: 1px 0px 6px rgba(0, 0, 0, .2);
+}
+
+.menu__item {
+	color: #777777;
+}
+.menu__item:hover {
+	background-color: #444444;
+}
+
+/* .colors {
+	color: #333333;
+	contrast: #777777;
+	color: #444444;
+	contrast: #999999;
+	color: #555555;
+	color: #222222;
+	contrast: #888888;
+	color: #111111;
+	contrast: #666666;
+
+	color: #111111;
+	color: #222222;
+	color: #333333;
+	color: #444444;
+	color: #555555;
+	color: #666666;
+	color: #777777;
+	color: #888888;
+	color: #999999;
+} */
